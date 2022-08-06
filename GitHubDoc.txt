@@ -1,0 +1,37 @@
+How to upload project on GitHub
+
+1.	Download windows client from the below link
+
+https://desktop.github.com/
+
+2.	Download git bash 
+
+https://git-scm.com/download/win
+
+3.	Set Git username 
+      git config --global user.name "Deeksha"
+
+4.	Confirm user name set correctly
+
+       $ git config --global user.name
+    
+5.	Set email
+
+       $ git config --global user.email “email@example.com”
+     
+6.	Confirm that you have set email correctly
+
+git config --global user.email
+
+
+
+
+ 
+
+
+
+
+
+
+
+
