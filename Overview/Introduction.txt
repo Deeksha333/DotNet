@@ -1,0 +1,72 @@
+-	.Net is a free, CrossPlatform ,Open source for building many kind of applications.
+
+
+-	Microsoft support .Net on android, Apple,Linux,and windows OS . It can also support Mac Os Rosetta.
+
+Rosetta:
+Mac computers use apple Silicon processor.
+Rosetta is not an app that you open and intract. it works on background automatically whenever you use an app that is built for mac Computers with an intel processor. It translate the app for use with apple silicon.
+
+
+-	New version of .Net released anually in November. .Net release in odd number years are LTS and are supported for three years. 
+Release in evan number year are STS Release and supported for 18 months.
+Example:
+.Net 6 release date is 08-11-2021 Is LTS and releases in November.
+.Net Core 3.1 release date is 03-12-2019 is LTS.
+
+
+-	The .Net team and Microsoft work collaboratively with other organizationto distribute and support .Net in various way.
+
+a. Red Hat support .Net  on red Hat enterprice Linux
+Note: it support only in red Hat enterprice that is one of the distro of linux.It will not support in ubantu distro.
+
+What is distro:
+If you ever heared about linux then you probably heared about distribution often called distro. when you decide to work on linux on a desktop or server you'll frist need to choose a distro. For many people, ubantu has become a synonyms with linux. but ubuntu is one of many distros.
+
+Linux OS is not produced by a single organization. different organization and people work on a different part.
+
+Source: https://www.howtogeek.com/132624/htg-explains-whats-a-linux-distro-and-how-are-they-different/
+
+b. Samsung support .Net On Tizen Plateform.
+
+Tizen Platform:
+Tizen .Net is a new way to develop application for Tizen OS. Tizen is a OS.running on samsung devices, including TV, wearables, Mobile Phones and many other IOT Devices arround the world.
+
+-	On Android ,Linux, MacOS, JIT compilation in default and AOT(Ahead Of Time) is optional.
+on IOS ,AOT is mandatory(except when running on simulator).
+in WebAssembly environment ,AOT is mandatory.
+
+JIT compile code at higher or lower level of quality to enable better startup.
+AOT provide best app startup and can result in smaller deployement.
+
+
+
+-	Nuget package manager enable developer to share compiled binaries with each other.
+
+-	.Net SDK is a set of library and tools for developing and running .Net Application. It include MSBuild and roslyn compiler.	
+MSBuild: Visual studio uses MSBuild for building applications.MSBuild does not depend on Visual studio. By invoking msbuild.exe on your solution or project, you can build product in environment where vs not installed.
+
+Rosyln:it is a compiler that not only converts source code into bunaries , but also act as a service and providing a public api for understanding the code.
+in my word Rosyln is a compiler that include sonarqube features as well ;)
+
+
+-	Deployement Models
+.Net app can be published in two different modes.
+
+a.Self-Contained apps: it include .Net Runtime and dependent libraries.User can run it on a machine that doesn't have the .Net runtime installed.
+b.Framework dependent apps: it require a compitable version of .Net runtimetypically installed globally.these apps can be published for a single OS
+
+CLR:https://en.wikipedia.org/wiki/Common_Language_Runtime
+CLI: https://www.ecma-international.org/publications-and-standards/standards/ecma-335/
+
+
+
+
+
+
+
+
+
+
+
+

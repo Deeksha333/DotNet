@@ -1,0 +1,15 @@
+D:\Learning\GitHub\DotNet\Hello World\sample1\bin\Debug\net6.0\sample1.exe
+D:\Learning\GitHub\DotNet\Hello World\sample1\bin\Debug\net6.0\sample1.deps.json
+D:\Learning\GitHub\DotNet\Hello World\sample1\bin\Debug\net6.0\sample1.runtimeconfig.json
+D:\Learning\GitHub\DotNet\Hello World\sample1\bin\Debug\net6.0\sample1.dll
+D:\Learning\GitHub\DotNet\Hello World\sample1\bin\Debug\net6.0\ref\sample1.dll
+D:\Learning\GitHub\DotNet\Hello World\sample1\bin\Debug\net6.0\sample1.pdb
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.csproj.AssemblyReference.cache
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.AssemblyInfoInputs.cache
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.AssemblyInfo.cs
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.dll
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\ref\sample1.dll
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.pdb
+D:\Learning\GitHub\DotNet\Hello World\sample1\obj\Debug\net6.0\sample1.genruntimeconfig.cache

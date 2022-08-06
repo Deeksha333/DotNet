@@ -1,0 +1,5 @@
+1. open a terminal such as PowerShell, Command Prompt, or bash.
+
+dotnet new console -o sample1
+cd sample1
+dotnet run
