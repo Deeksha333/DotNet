@@ -1,0 +1,97 @@
+
+
+-	cmd D:\Learning\GitHub\DotNet\Tutorial\HelloWorld
+
+-	code .
+
+-	dotnet new console --framework net6.0
+
+-	Program.Cs: Console.WriteLine("Hello, World!");
+
+
+-	Replace with :
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+
+
+-	If you don't get the prompt, or if you accidentally dismiss it without selecting Yes, do the following steps to create launch.json and tasks.json:
+
+Select Run > Add Configuration from the menu.
+Select .NET 5+ and .NET Core at the Select environment prompt.
+
+-	dotnet run
+
+
+-	Replace with 
+
+Console.WriteLine("What is your name?");
+var name = Console.ReadLine();
+var currentDate = DateTime.Now;
+Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
+Console.Write($"{Environment.NewLine}Press any key to exit...");
+Console.ReadKey(true);
+
+
+NewLine is a platform-independent and language-independent way to represent a line break.
+
+The dollar sign ($) in front of a string lets you put expressions such as variable names in curly braces in the string
+Variable like  'Environment.NewLine',{name}, 
+
+
+-	dotnet run
+
+
+
+
+*********************************Debug an app ****************************************************
+
+set a breakpoint are by pressing F9 or choosing Run > Toggle Breakpoint
+
+Open .vscode/launch.json.( do the following steps to create launch.json and tasks.json:
+
+Select Run > Add Configuration from the menu.
+Select .NET 5+ and .NET Core at the Select environment prompt.)
+
+Change the console setting from internalConsole to integratedTerminal:
+
+Open the Debug view by selecting the Debugging icon on the left side menu.
+
+Select the green arrow at the top of the pane, next to .NET Core Launch (console). Other ways to start the program in debugging mode are by pressing F5 or choosing Run > Start Debugging from the menu.
+
+
+
+********************************* Publish app  ****************************************************
+
+
+dotnet publish --configuration Release
+
+the publishing process creates a framework-dependent deployment
+
+n Explorer, right-click the publish folder (Ctrl-click on macOS), and select Open in Terminal.
+
+On Windows, enter .\HelloWorld.exe and press Enter.
+
+
+on any plateform enter dotnet HelloWorld.dll
+
+
+
+
+
+
+
+
+
+
+
+
+

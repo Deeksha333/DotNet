@@ -1,0 +1,23 @@
+dotnet new sln
+
+dotnet new classlib -o StringLibrary
+
+dotnet sln add StringLibrary/StringLibrary.csproj
+
+--replace the code
+
+
+dotnet build
+
+
+dotnet new console -o ShowCase
+
+dotnet sln add ShowCase/ShowCase.csproj
+
+
+-- replace code
+
+dotnet add ShowCase/ShowCase.csproj reference StringLibrary/StringLibrary.csproj
+
+dotnet run --project ShowCase/ShowCase.csproj
+

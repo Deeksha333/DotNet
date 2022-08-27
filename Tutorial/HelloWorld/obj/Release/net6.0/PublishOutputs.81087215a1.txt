@@ -1,0 +1,5 @@
+D:\Learning\GitHub\DotNet\Tutorial\HelloWorld\bin\Release\net6.0\publish\HelloWorld.exe
+D:\Learning\GitHub\DotNet\Tutorial\HelloWorld\bin\Release\net6.0\publish\HelloWorld.dll
+D:\Learning\GitHub\DotNet\Tutorial\HelloWorld\bin\Release\net6.0\publish\HelloWorld.deps.json
+D:\Learning\GitHub\DotNet\Tutorial\HelloWorld\bin\Release\net6.0\publish\HelloWorld.runtimeconfig.json
+D:\Learning\GitHub\DotNet\Tutorial\HelloWorld\bin\Release\net6.0\publish\HelloWorld.pdb

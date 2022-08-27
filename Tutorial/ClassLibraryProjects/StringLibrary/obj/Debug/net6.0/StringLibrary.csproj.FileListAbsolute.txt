@@ -1,0 +1,12 @@
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\ref\StringLibrary.dll
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
+D:\Learning\GitHub\DotNet\Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb

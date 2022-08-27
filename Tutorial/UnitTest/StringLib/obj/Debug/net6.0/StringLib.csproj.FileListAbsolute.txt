@@ -1,0 +1,12 @@
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\bin\Debug\net6.0\StringLib.deps.json
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\bin\Debug\net6.0\StringLib.dll
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\bin\Debug\net6.0\ref\StringLib.dll
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\bin\Debug\net6.0\StringLib.pdb
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.csproj.AssemblyReference.cache
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.AssemblyInfoInputs.cache
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.AssemblyInfo.cs
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.dll
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\ref\StringLib.dll
+D:\Learning\GitHub\DotNet\Tutorial\UnitTest\StringLib\obj\Debug\net6.0\StringLib.pdb

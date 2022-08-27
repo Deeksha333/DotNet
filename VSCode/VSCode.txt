@@ -1,0 +1,18 @@
+-	VS Code supports multiple cursors for fast simultaneous edits. You can add secondary cursors with Alt+Click.
+
+-	A common way to add more cursors is with Ctrl+Alt+Down or Ctrl+Alt+Up that insert cursors below or above.
+
+
+-	Ctrl+D selects the word at the cursor, or the next occurrence of the current selection.
+
+
+-	Quickly shrink or expand the current selection. Trigger it with Shift+Alt+Left and Shift+Alt+Right
+
+-	Place the cursor in one corner and then hold Shift+Alt while dragging to the opposite corner:
+
+-	VS Code allows you to quickly search over all files in the currently opened folder. Press Ctrl+Shift+F and enter your search term
+
+-	Use the Ctrl+` keyboard shortcut with the backtick character. To open terminal
+
+
+
