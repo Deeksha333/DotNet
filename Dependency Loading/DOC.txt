@@ -1,0 +1,8 @@
+Each probing property is optional. If present, each property is a string value that contains a delimited list of absolute paths. The delimiter is ';' on Windows and ':' on all other platforms.
+
+- Default dependency probing
+- Load Managed assemblies
+- Load satelite asseblies
+- Load unmanaged assembly
+
+

@@ -1,0 +1,13 @@
+dotnet new console -o AppWithPlugin
+
+dotnet new sln
+
+dotnet sln add AppWithPlugin/AppWithPlugin.csproj
+
+
+--Replace code
+
+
+dotnet new classlib -o PluginBase
+
+dotnet add AppWithPlugin/AppWithPlugin.csproj reference PluginBase/PluginBase.csproj

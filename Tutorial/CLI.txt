@@ -1,0 +1,9 @@
+dotnet --version 
+
+dotnet --info
+dotnet --list-runtimes
+dotnet --list-sdks
+
+dotnet -h|--help  
+
+dotnet -h Prints out a description of how to use the command.

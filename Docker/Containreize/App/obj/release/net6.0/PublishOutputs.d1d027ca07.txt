@@ -1,0 +1,5 @@
+D:\Learning\GitHub\DotNet\Docker\Containreize\App\bin\release\net6.0\publish\DotNet.Docker.exe
+D:\Learning\GitHub\DotNet\Docker\Containreize\App\bin\release\net6.0\publish\DotNet.Docker.dll
+D:\Learning\GitHub\DotNet\Docker\Containreize\App\bin\release\net6.0\publish\DotNet.Docker.deps.json
+D:\Learning\GitHub\DotNet\Docker\Containreize\App\bin\release\net6.0\publish\DotNet.Docker.runtimeconfig.json
+D:\Learning\GitHub\DotNet\Docker\Containreize\App\bin\release\net6.0\publish\DotNet.Docker.pdb

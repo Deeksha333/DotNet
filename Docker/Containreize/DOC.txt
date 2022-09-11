@@ -1,0 +1,123 @@
+The image can be used to create containers for your local development environment, private cloud, or public cloud.
+
+In this part 
+
+create and publish a simple .Net Application
+create and configure dockerfile
+build a docker image
+create and run a docker container
+
+
+Docker platform uses 'docker engine' to quickly package and build apps as docker image.
+These images are written in the Dockerfile format to be deployed and run in a layered container.
+
+
+
+
+dotnet new console -o App -n DotNet.Docker
+
+dotnet run
+
+--Replace code
+
+
+use cancel command 'Cntrl+C' to stop it
+
+
+dotnet run -- 5
+Any parameters after -- are not passed to the dotnet run command and instead are passed to your application.
+
+
+dotnet publish -c Release
+path to the publish folder will be '.\App\bin\Release\net6.0\publish\'
+
+
+The Dockerfile file is used by the docker build command to create a container image
+
+Create a file named Dockerfile in the directory that has no extension
+
+Paste the codein docker file
+
+Make sure that you pull the runtime version that matches the runtime targeted by your SDK
+
+MCR- Microsoft container registry
+
+docker build -t counter-imagerename -f Dockerfile . 
+.  is the docker build command
+-f Switch is the path of docker file
+command builds the image and creates a local repository named counter-image
+ '6bd8fcb51a3b'
+
+image name should be in lower case
+
+
+ 
+docker images- to see  a list installed images
+
+the final step of docker file are to create container from image and then run the app and then copy the publish app to the container.
+
+create container:
+docker create --name core-counter_rename counter-imagerename
+
+to see all the containers:
+docker ps -a
+
+docker start: to start the container
+example: docker start core-counter_rename
+
+docker ps: to only show the container that are running
+
+
+
+
+To see the oupput from docker container use docker start and then docker attach.
+Cntrl+c command will end the process in container and can stop the container.  so the '--sig-proxy=false' param ensure cntrl+C will 
+not stop the process in container.
+
+docker attach core-counter_rename
+docker attach  --sig-proxy=false core-counter_rename
+
+
+
+Note: when i used docker attach core-counter_rename command. I was not able to make another command and it was not cancelling with cntrl+c as well,
+counter was continiously working so i have to open another. 
+terminal window and sotop container from that terminal.
+and when i use docker attach  --sig-proxy=false core-counter_rename. i was able to give another command as the counter, it was working in background
+
+docker stop core-counter_rename
+
+
+docker stop: to stop the conatiner . it will exit the container
+
+container id : 9bc889da2cba
+
+docker start 9bc889da2cba  - it will start the exited container.
+
+docker rm core-counter_rename : for delete the containers
+
+
+**************Single RUN***********
+docker run : it is a single command that can be used to create and run the container.we can use this command to auto delete the container when it stops.
+docker run -it --rm 
+
+
+docker run -it --rm: its do two things, first, automatically use the current terminal to connect to the container, and then when the container finishes, remove it:
+
+
+docker run -it --rm counter-image 3
+
+docker stop counter-image : Stop containers that are running by their name.
+
+docker rm counter-image : delete the container.
+
+
+docker rmi counter-image:latest
+docker rmi mcr.microsoft.com/dotnet/aspnet:6.0
+
+docker images : command to see a list of images installed.
+
+
+
+
+
+

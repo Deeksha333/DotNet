@@ -60,6 +60,22 @@ CLR:https://en.wikipedia.org/wiki/Common_Language_Runtime
 CLI: https://www.ecma-international.org/publications-and-standards/standards/ecma-335/
 
 
+We can specifie multiple target framwork 
+<PropertyGroup>
+  <TargetFrameworks>netcoreapp3.1;net462</TargetFrameworks>
+</PropertyGroup>
+
+When a compiler produces MSIL, it also produces metadata. Metadata describes the types in your code, including the definition of each type, the signatures of each type's members, the members that your code references, and other data that the runtime uses at execution time. 
+
+Then Compiler Convert MSIL to natice code for this .Net provide two way to performe this conversion
+1.JIT
+2. Ngen.exe (Natice image generator)
+
+
+
+Metadata is machine-readable information about a resource, or “data about data.” Such information might include details on content, format, size, or other characteristics of a data source. In .NET, metadata includes type definitions, version information, external assembly references, and other standardized information.
+
+
 
 
 
