@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63af9936-a2a3-4134-a1d2-23162a770547": {
+      "ProjectGuid": "63af9936-a2a3-4134-a1d2-23162a770547",
+      "DisplayName": "MyWebAPi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

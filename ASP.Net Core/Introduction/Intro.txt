@@ -1,0 +1,29 @@
+ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+
+By Asp.Net core you an build Web Apps , Services , IOT and mobile backend.
+
+you can use any development tool on window , linux and mac
+
+deploye to the cloud or apache means it is not limited to iis now .
+
+Run on .Net Core
+
+
+Asp.net core is redesigned of asp.net 4.x including architectural changes 
+
+
+we can host application on following.
+kestrel
+IIS
+HTTP.Sys
+Nginx
+Apache
+Docker
+
+
+Asp.net core is composed of .Net Standered library and the library written in .Net Standard can run on any plateform that implement .NetStandered2.0
+
+
+https://docs.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/
+
+

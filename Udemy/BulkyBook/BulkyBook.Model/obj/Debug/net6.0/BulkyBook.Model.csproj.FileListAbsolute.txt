@@ -1,0 +1,12 @@
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.deps.json
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.pdb
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfoInputs.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfo.cs
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\ref\BulkyBook.Model.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.pdb
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.AssemblyReference.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Model\obj\Debug\net6.0\refint\BulkyBook.Model.dll

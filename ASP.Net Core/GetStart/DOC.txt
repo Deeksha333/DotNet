@@ -1,0 +1,23 @@
+Create and run a ASP.Netcore web app using cli
+
+
+dotnet new webapp -o aspnetcoreapp
+Note : The -o aspnetcoreapp parameter creates a directory named aspnetcoreapp with the source files for the app.
+
+
+dotnet dev-certs https --trust
+Note: if you will not run thiss commad . there will be error of ' Exited with error code -532462766'
+
+
+dotnet watch run
+it will auto render to 'https://localhost:{port}' if not then enter this url on browser
+
+
+made some changes on index.cshtml and then those changes will be reflect on the browser if not then refresh the browser
+
+
+Switch to https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0#recommended-learning-path 
+
+
+
+

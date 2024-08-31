@@ -1,0 +1,11 @@
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.deps.json
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\bin\Debug\net6.0\BulkyBook.Utility.pdb
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\ref\BulkyBook.Utility.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.Utility\obj\Debug\net6.0\BulkyBook.Utility.pdb

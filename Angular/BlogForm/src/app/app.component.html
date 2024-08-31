@@ -1,0 +1,23 @@
+<form #basicForm="ngForm" (ngSubmit)="GetData(basicForm.value)">
+<input type ="text" ngModel name="user"/>
+<input type="text" ngModel name="email"/>
+<input type="text" ngModel name="pass"/>
+
+<button>Register</button>
+
+<ul>
+  <li>{{userData.user}}</li>
+  <li>{{userData.email}}</li>
+</ul>
+
+
+
+</form>
+
+<p>gjhgjf</p>
+
+<!-- toggle -->
+<h3 *ngIf="show">Hello</h3>
+
+<button (click)="Toggle()">toggle</button>
+

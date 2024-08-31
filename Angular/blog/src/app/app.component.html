@@ -1,0 +1,77 @@
+<p>Hello</p>
+<app-login></app-login>
+<app-signup></app-signup>
+<button (click)="getClick()">Click Me</button>
+<br/><br/>
+<button (click)="getName('Dikha','Gupta')">Get Name</button>
+<br/><br/>
+<input type="text" #box (keyup)="getTextBoxData(box.value)"/> <!--Keyup/keydown/blur/input-->
+<br/><br/>
+<p>{{displayVal}}</p>
+<br/><br/>
+<button (click)="getTextBoxData(box.value)">GetTextValue</button><!--another way for that remove (keyup) of textbox-->
+<br/><br/>
+<input type ="text" name="user-name" value="{{name}}" disabled="{{disable}}"/><!--interpolletion-->
+<br/><br/>
+<input type ="text" name="user-name" [value]="name" [disabled]="disable"/><!--property binding-->
+<br/><br/>
+
+<!-- if Condition -->
+<h1 *ngIf="show==='red'">Hello Show</h1>
+<br/><br/>
+
+<!-- if + else Condition -->
+<h1 *ngIf="show else elseBlock">Hello if</h1>
+<ng-template #elseBlock>
+    <h1>else block</h1>
+</ng-template>
+<!-- if + else Condition -->
+<h4 *ngIf="show=='red' then ifBLock else elseBlocktemp"></h4>
+<ng-template #ifBLock>
+<h3>if block with template</h3>
+</ng-template>
+<ng-template #elseBlocktemp>
+    <h3>else block with template</h3>
+</ng-template>
+<!-- if + else Condition -->
+<ng-template [ngIf]="show==='red'">
+<h2>Red Color</h2>
+</ng-template>
+<ng-template [ngIf]="show==='green'">
+    <h2>green Color</h2>
+</ng-template>
+<ng-template [ngIf]="show==='orange'">
+    <h2>orange Color</h2>
+</ng-template>
+<!-- above condition we can write this as well --> 
+<h3 *ngIf="show==='red'">Red Color without temp</h3>
+<h3 *ngIf="show==='green'">green Color without temp</h3>
+<h3 *ngIf="show==='orange'">orange Color without temp</h3>
+
+
+<!-- Switch -->
+<div [ngSwitch]="show">
+   <h1 *ngSwitchCase="'red'"> Switch red color</h1>
+   <h1 *ngSwitchCase="'green'"> Switch green color</h1>
+   <h1 *ngSwitchCase="'orange'"> Switch orange color</h1>
+ </div>
+
+ <!-- For Loop with array -->
+ <h3 *ngFor="let user of users">{{user}}</h3>
+ <!-- For Loop with array property-->
+ <h3 *ngFor="let userDetail of usersDetails">{{userDetail.name}}-- {{userDetail.email}}</h3> 
+ <!-- nested For loop-->
+ <ul *ngFor="let user of usersDetails">
+    <li>Name:{{user.name}}</li>
+    <li>Email:{{user.email}}</li>
+    <li>Social Accounts:</li>
+     <ol *ngFor="let SA of user.SocialAccounts">
+        <li>{{SA}}</li>
+     </ol>
+ </ul>
+<!-- Style Binding -->
+<h3 [style.color]="show"> hii style bind</h3>
+<h3 [style.color]="'red'"> hii style bind</h3>
+<h3 [style.color]="show" [style.backgroundcolor]="'red'">{{name}}</h3>
+
+ 

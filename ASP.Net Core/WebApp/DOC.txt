@@ -1,0 +1,28 @@
+1. in this using vs2022
+
+add nuget package for scaffolding 
+Microsoft.EntityFrameworkCore.Design
+
+The migrations feature in Entity Framework Core provides a way to:
+
+Create the initial database schema.
+Incrementally update the database schema to keep it in sync with the app's data model. Existing data in the database is preserved.
+
+
+IN PMC , enter following command
+Add-Migration InitialCreate
+Update-Database 
+
+
+Blazor:
+
+dotnet new blazorserver -o TodoList
+
+cd TodoList
+
+dotnet new razorcomponent -n Todo -o Pages
+
+replace code in Todo.razor
+
+
+

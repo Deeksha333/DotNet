@@ -1,0 +1,17 @@
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Model.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Model.pdb
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+D:\Learning\GitHub\DotNet\Udemy\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
